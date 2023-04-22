@@ -1,3 +1,5 @@
+package Conta;
+
 public class Conta {
     int numero;
     Cliente titular;
@@ -22,7 +24,7 @@ public class Conta {
         }
     }
 
-    //void transfere (Conta destino, double valor) {
+    //void transfere (Conta.Conta destino, double valor) {
       //  this.saldo = this.saldo - valor;
       //  destino.saldo = destino.saldo + valor;
     //}

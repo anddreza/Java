@@ -1,7 +1,9 @@
+package Conta;
+
 public class Main {
     public static void main(String[] args) {
-//        Conta c1;
-//         c1 = new Conta();
+//        Conta.Conta c1;
+//         c1 = new Conta.Conta();
 //        c1.numero = 123;
 //        c1.titular = "Andreza";
 //        c1.saldo = 2.000;
