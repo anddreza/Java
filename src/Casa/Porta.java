@@ -1,2 +1,4 @@
-package Casa;public class Porta {
+package Casa;
+
+public class Porta {
 }

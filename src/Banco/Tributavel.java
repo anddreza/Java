@@ -1,2 +1,8 @@
-package Banco;public class Tributavel {
+package Banco;
+
+public class Tributavel {
+    double calculaTributos() {
+        return 0;
+    }
+
 }

@@ -1,2 +1,5 @@
-package Somar;public class Somar {
+package Somar;
+
+public class Somar {
+
 }

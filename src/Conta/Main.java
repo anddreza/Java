@@ -11,9 +11,18 @@ public class Main {
     Cliente c = new Cliente();
     minhaConta.titular = c;
 
+        Cliente c1 = new Cliente();
+        Cliente c2 = new Cliente();
+        Cliente c3 = new Cliente();
 
-    Cliente clientedaMinhaConta = minhaConta.titular;
+
+        Cliente clientedaMinhaConta = minhaConta.titular;
     clientedaMinhaConta.nome = "Duke";
     // outra forma: minhaConta.titular.nome = "Duke";
+
+        Conta ContaminhaConta = new Conta();
+      //  minhaConta.saldo = 1000.0;
+        minhaConta.saca(50000);
+
     }
 }

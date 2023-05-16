@@ -17,6 +17,5 @@ public class Excecao {
 
         System.out.println("Este texto será impresso após a expection");
 
-
     }
 }

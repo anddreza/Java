@@ -1,2 +1,5 @@
-package Arrays;public class TestaArrays {
+package Arrays;
+
+public class TestaArrays {
+
 }

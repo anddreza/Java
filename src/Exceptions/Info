@@ -1,0 +1,18 @@
+
+Aula 47: Exceptions: try, catch
+Tratamento de exceções no Java
+- Não tratar erros fazem a execução do programa terminar
+
+- Tratar erros:
+    - permitem que o programa execute uma determinada lógica caso o erro ocorra
+    - permitem que o programa continue a execução
+
+Aula 50: Exceptions: stacktrace e throws
+- Error: resulta na finalização do programa
+- Exception: possível tratar o erro e continuar execução do programa
+
+Palavra chave throws
+- Método pode disparar uma Exception
+- Passa a responsabilidade para quem for utilizar o método
+- Exceptions disparadas em tempo de execução (ArrayOutOfBounds, Arithmetic) não necessitam de throws explicitamente
+

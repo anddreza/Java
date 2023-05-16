@@ -3,7 +3,8 @@ package Conta;
 public class Conta {
     int numero;
     Cliente titular;
-    double saldo;
+    // String titular;
+    private double saldo;
     double salario;
 
    // void saca(double quantidade){
@@ -37,6 +38,13 @@ public class Conta {
             destino.deposita(valor);
             return true;
         }
+    }
+
+    public void mudaCPF(String cpf){
+        //if(this.idade <= 60){
+         //   validaCPF(cpf);
+        //}
+        //this.cpf = cpf;
     }
 
 
